@@ -5,7 +5,7 @@ def menu_update():
     
       while opcao != '2':  
         print("-------------- Gestão Loja de Jogos Gui -------------------")
-        print('1 - atualizar documentos')  #
+        print('1 - Atualizar documentos')  #
         print('2 - Sair')     
 
         opcao = input('Informe o que deseja fazer: ') 

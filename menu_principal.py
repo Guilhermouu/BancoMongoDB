@@ -1,6 +1,6 @@
 
 def menu():   
-        print("--------------Gestão Loja de Jogos Gui-------------------")
+        print("-------------- Gestão Loja de Jogos Gui -------------------")
         print('1 - Conectar ao Banco')
         print('2 - Inserir dados no banco')
         print('3 - Consultar Dados')
